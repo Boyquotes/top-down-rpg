@@ -99,7 +99,6 @@ _data = {
 size = Vector2(8, 7)
 
 [node name="Player" type="CharacterBody2D"]
-y_sort_enabled = true
 script = ExtResource("1_dpd3o")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
